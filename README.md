@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my own website](https://aman-kumar-verma2004.github.io/My-own-website/)
 
-- 🌱 I’m currently learning **java along with DSA.**
+- 🌱 I’m currently learning **java with DSA.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aman-kumar-verma-71104b24b**
 
